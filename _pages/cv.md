@@ -16,6 +16,10 @@ Education
 
 Internship Experience
 ======
+* Winter 2024: Intern
+  * Shanghai Artificial Intelligence Research Institute(AIlab)
+  * Duties included: LLM training and data generation engineer
+
 * Summer 2022: Researcher
   * Shenzhen Flintstone Robotics Corporation Limited
   * Duties included: Control and Design of Robot Arm
