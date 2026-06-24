@@ -18,21 +18,21 @@ Work Experience
 ======
 * 2025.1-2025.5: Algorithm Expert
   * [CV Lab, Alibaba AMAP](https://amap-cvlab.github.io/), Beijing, China
-  * Project: IDEAL - Influence-based Data Equilibrium Adaptation for Multi-Capability Language Model Alignment
-  * Challenges: In practical LLM training, achieving balanced multi-domain capabilities requires manual adjustment of dataset proportions. Suboptimal ratios often lead to model capability degradation, and the tuning process is highly dependent on empirical experience.
-  * Technical Solution: Proposed IDEAL method using Influence Function theory to automatically compute the direction and magnitude of dataset changes needed to improve target datasets. Through iterative IDEAL optimization, achieved 7% improvement in comprehensive multi-domain benchmark performance compared to baseline methods, providing a scientific tool for data proportion allocation in large model fine-tuning.
-  * Highlight: Submitted as first author to ICLR 2026.
 
 Internship Experience
 ======
+* 2024.11 ~ 2025.7: LLM Algorithm Researcher
+  * Shanghai AILab.
+  * I developed a Hungarian low-resource LLM fine-tuning pipeline based on InternLM2.5 7B and Qwen2.5 7B by conducting post-pre-training with 20B Hungarian corpus and generating filtered high-diversity supervised data, and the optimized model surpassed GPT-4o mini on all 27 cross-domain benchmarks.
+  * I proposed IDEAL, an influence function-driven automatic data proportion adjustment framework for multi-capability LLM alignment to balance model performance across diverse tasks, which achieved a 7% comprehensive performance gain over competing methods and became my sole-first-author work accepted by ICLR 2026.
 
 * Summer 2022: Researcher
-  * Shenzhen Flintstone Robotics Corporation Limited
-  * Duties included: Control and Design of Robot Arm
+  * Shenzhen Flintstone Robotics Corporation Limited.
+  * Duties included: Control and Design of Robot Arm.
 
 * Fall 2021: Researcher
-  * The Beijing General Artificial Intelligence Research Institute
-  * Duties included: Design and implement a surface robots
+  * The Beijing General Artificial Intelligence Research Institute.
+  * Duties included: Design and implement a surface robots.
   
 Skills
 ======
@@ -48,7 +48,7 @@ Awards
 ======
 * National Scholarship (国家奖学金), 2024-2025
 
-Competition Experience
+Competition Experience / Awards
 ======
 * The 24th "Electronic Design Contest" held at Tsinghua University. 2023.4
   * Received the highest honor, the Grand Prize.
