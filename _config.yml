@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chenlin Ming / ming-bot"
 title_separator          : "-"
 name                     : &name "Chenlin Ming"
-description              : &description "Postgraduate student at Shanghai Jiao Tong University"
+description              : &description ""
 url                      : https://ming-bot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ming-bot.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chenlin Ming"
   avatar           : "self.jpg" #"profile.png"
-  bio              : "Postgraduate student at Shanghai Jiao Tong University, engage in Robtics, Learning, RL, LLM."
-  location         : "Shanghai, China"
+  bio              : "Algorithm Engineer in Amap, Alibaba, engage in Robtics, Learning, RL, LLM."
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fmTUXgkAAAAJ&hl=zh-CN&oi=sra"
-  email            : "mcl2019011457@sjtu.edu.cn"
+  email            : "mingchenlinm@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
