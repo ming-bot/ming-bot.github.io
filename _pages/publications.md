@@ -97,6 +97,7 @@ author_profile: true
     <p class="pub-authors"><span class="me">Chenlin Ming</span>, Chendi Qu, Xiaoming Duan, Qizhi Pei, Zhuoshi Pan, Yu Li, Conghui He, Lijun Wu</p>
     <div class="pub-links">
       <a class="pub-btn" href="https://arxiv.org/abs/2505.12762" target="_blank" rel="noopener">arXiv</a>
+      <a class="pub-btn" href="https://github.com/ming-bot/IDEAL" target="_blank" rel="noopener">Code</a>
     </div>
   </div>
 </div>
@@ -111,6 +112,7 @@ author_profile: true
     <p class="pub-authors"><span class="me">Chenlin Ming</span>, Zitong Wang, Boxuan Zhang, Zhanxiang Cao, Xiaoming Duan, Jianping He</p>
     <div class="pub-links">
       <a class="pub-btn" href="https://ieeexplore.ieee.org/document/10976394/" target="_blank" rel="noopener">IEEE</a>
+      <a class="pub-btn" href="https://github.com/ming-bot/MSTOMP" target="_blank" rel="noopener">Code</a>
     </div>
   </div>
 </div>
@@ -125,6 +127,7 @@ author_profile: true
     <p class="pub-authors"><span class="me">Chenlin Ming</span>, Jiacheng lin, Pangkit Fong, Han Wang, Xiaoming Duan, Jianping He</p>
     <div class="pub-links">
       <a class="pub-btn" href="https://ieeexplore.ieee.org/abstract/document/10865457/" target="_blank" rel="noopener">IEEE</a>
+      <a class="pub-btn" href="https://github.com/ming-bot/HiCRISP" target="_blank" rel="noopener">Code</a>
     </div>
   </div>
 </div>
