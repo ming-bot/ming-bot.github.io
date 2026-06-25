@@ -129,6 +129,48 @@ author_profile: true
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-thumb">
+    <img src="../images/MathFusion.png" alt="MathFusion: Enhancing mathematic problem-solving of LLM through instruction fusion" />
+  </div>
+  <div class="pub-body">
+    <span class="pub-venue">ACL 2025</span>
+    <p class="pub-title">MathFusion: Enhancing mathematic problem-solving of LLM through instruction fusion</p>
+    <p class="pub-authors">Qizhi, Pei, Lijun Wu, Zhuoshi Pan, Yu Li, Honglin lin, <span class="me">Chenlin Ming</span>, Xin Gao, Conghui He, Rui Yan</p>
+    <div class="pub-links">
+      <a class="pub-btn" href="https://aclanthology.org/2025.acl-long.367.pdf" target="_blank" rel="noopener">ACL</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb">
+    <img src="../images/Lemma.png" alt="LEMMA: Learning from Errors for MatheMatical Advancement in LLMs" />
+  </div>
+  <div class="pub-body">
+    <span class="pub-venue">ACL 2025(Findings)</span>
+    <p class="pub-title">LEMMA: Learning from Errors for MatheMatical Advancement in LLMs</p>
+    <p class="pub-authors">Zhuoshi Pan, Yu Li, Honglin lin, Qizhi Pei, Zinan Tang, Wei Wu, <span class="me">Chenlin Ming</span>, H. Vicky Zhao, Conghui He, Lijun Wu</p>
+    <div class="pub-links">
+      <a class="pub-btn" href="https://aclanthology.org/2025.findings-acl.605.pdf" target="_blank" rel="noopener">ACL</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb">
+    <img src="../images/Ciperbench.png" alt="CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges" />
+  </div>
+  <div class="pub-body">
+    <span class="pub-venue">ACL 2025(Findings)</span>
+    <p class="pub-title">CipherBank: Exploring the Boundary of LLM Reasoning Capabilities through Cryptography Challenges</p>
+    <p class="pub-authors">Yu Li, Qizhi Pei, Mengyuan Sun, Honglin lin, <span class="me">Chenlin Ming</span>, Xin Gao, Jiang Wu, Conghui He, Lijun Wu</p>
+    <div class="pub-links">
+      <a class="pub-btn" href="https://aclanthology.org/2025.findings-acl.309.pdf" target="_blank" rel="noopener">ACL</a>
+    </div>
+  </div>
+</div>
+
 <!-- <div class="pub-card">
   <div class="pub-thumb">
     <img src="../images/selection_sequential.png" alt="Detecting and Identifying Selection Structure in Sequential Data" />
