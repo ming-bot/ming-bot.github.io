@@ -98,6 +98,7 @@ author_profile: true
     <div class="pub-links">
       <a class="pub-btn" href="https://arxiv.org/abs/2505.12762" target="_blank" rel="noopener">arXiv</a>
       <a class="pub-btn" href="https://github.com/ming-bot/IDEAL" target="_blank" rel="noopener">Code</a>
+      <a class="pub-btn" href="https://zhuanlan.zhihu.com/p/1925560184190797656" target="_blank" rel="noopener">知乎</a>
     </div>
   </div>
 </div>
@@ -113,24 +114,25 @@ author_profile: true
     <div class="pub-links">
       <a class="pub-btn" href="https://ieeexplore.ieee.org/document/10976394/" target="_blank" rel="noopener">IEEE</a>
       <a class="pub-btn" href="https://github.com/ming-bot/MSTOMP" target="_blank" rel="noopener">Code</a>
+      <a class="pub-btn" href="https://ming-bot.github.io/MSTOMP.github.io/" target="_blank" rel="noopener">Project Website</a>
     </div>
   </div>
 </div>
 
 <div class="pub-card">
   <div class="pub-thumb">
-    <img src="../images/CAC_Framework.png" alt="HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner" />
+    <img src="../images/UniLegs.png" alt="UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation" />
   </div>
   <div class="pub-body">
-    <span class="pub-venue">CAC 2024</span>
-    <p class="pub-title">HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner</p>
-    <p class="pub-authors"><span class="me">Chenlin Ming</span>, Jiacheng lin, Pangkit Fong, Han Wang, Xiaoming Duan, Jianping He</p>
+    <span class="pub-venue">IROS 2025</span>
+    <p class="pub-title">UniLegs: Universal Multi-Legged Robot Control through Morphology-Agnostic Policy Distillation</p>
+    <p class="pub-authors">Weijie Xi, Zhanxiang Cao, <span class="me">Chenlin Ming</span>, Jianying Zheng, Guyue Zhou</p>
     <div class="pub-links">
-      <a class="pub-btn" href="https://ieeexplore.ieee.org/abstract/document/10865457/" target="_blank" rel="noopener">IEEE</a>
-      <a class="pub-btn" href="https://github.com/ming-bot/HiCRISP" target="_blank" rel="noopener">Code</a>
+      <a class="pub-btn" href="https://ieeexplore.ieee.org/document/11246243" target="_blank" rel="noopener">IEEE</a>
     </div>
   </div>
 </div>
+
 
 <div class="pub-card">
   <div class="pub-thumb">
@@ -170,6 +172,22 @@ author_profile: true
     <p class="pub-authors">Yu Li, Qizhi Pei, Mengyuan Sun, Honglin lin, <span class="me">Chenlin Ming</span>, Xin Gao, Jiang Wu, Conghui He, Lijun Wu</p>
     <div class="pub-links">
       <a class="pub-btn" href="https://aclanthology.org/2025.findings-acl.309.pdf" target="_blank" rel="noopener">ACL</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb">
+    <img src="../images/CAC_Framework.png" alt="HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner" />
+  </div>
+  <div class="pub-body">
+    <span class="pub-venue">CAC 2024</span>
+    <p class="pub-title">HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner</p>
+    <p class="pub-authors"><span class="me">Chenlin Ming</span>, Jiacheng lin, Pangkit Fong, Han Wang, Xiaoming Duan, Jianping He</p>
+    <div class="pub-links">
+      <a class="pub-btn" href="https://ieeexplore.ieee.org/abstract/document/10865457/" target="_blank" rel="noopener">IEEE</a>
+      <a class="pub-btn" href="https://github.com/ming-bot/HiCRISP" target="_blank" rel="noopener">Code</a>
+      <a class="pub-btn" href="https://ming-bot.github.io/HiCRISP.github.io/" target="_blank" rel="noopener">Project Website</a>
     </div>
   </div>
 </div>
