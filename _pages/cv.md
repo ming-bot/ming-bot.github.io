@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing, Tsinghua University, 2023
-* M.S. in Shanghai, Shanghai Jiaotong University, 2025
+* B.S. in Beijing, Tsinghua University, 2019 - 2023
+* M.S. in Shanghai, Shanghai Jiaotong University, 2023 - 2026
 
 Work Experience
 ======
-* 2025.1-2025.5: Algorithm Expert
+* Now: Algorithm Expert
   * [CV Lab, Alibaba AMAP](https://amap-cvlab.github.io/), Beijing, China
 
 Internship Experience
