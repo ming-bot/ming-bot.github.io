@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ming"
-excerpt: "About me"
+title: "Hello, Welcome to my website."
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -47,14 +47,16 @@ redirect_from:
 <div class="custom-news-box">
   <h2>🔥 News</h2>
   <ul>
-    <li><span class="news-date">2026.04</span> 🎉 Finished my Master's thesis defense and heading to Europe for graduation trip!</li>
-    <li><span class="news-date">2026.03</span> 📝 Signed with Amap (高德) as an Algorithm Engineer. Exciting journey ahead!</li>
-    <li><span class="news-date">2025.10</span> 🗣️ Presented our paper "Stochastic Trajectory Optimization..." at the conference.</li>
+    <li><span class="news-date">2026.05</span> 📝 Join Amap CV Lab as an Algorithm Engineer. Exciting journey ahead!</li>
+    <li><span class="news-date">2026.03</span> 🎉 Finished my Master's thesis defense and heading to Europe for graduation trip!</li>
+    <li><span class="news-date">2026.01</span> 🎉 Our paper "IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment" has been accepted by ICLR. Congratulations!</li>
+    <li><span class="news-date">2025.10</span> 🗣️ Present our paper "Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration" at IROS, held in Hangzhou.</li>
+    <li><span class="news-date">2025.04</span> 🎉 Our paper "Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration" has been accepted by RA-L. Congratulations!</li>
+    <li><span class="news-date">2024.11</span> 🗣️ Present our paper "HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner" at CAC, held in Qingdao.</li>
   </ul>
 </div>
 <!-- === NEWS SECTION END === -->
 
-Hello, Welcome to my website.
 ======
 I am currently working as an Algorithm Expert at Alibaba's Amap in Beijing, China. I completed my Master's degree in the Department of Automation at Shanghai Jiao Tong University and my Bachelor's degree in the Department of Automation at Tsinghua University. During my undergraduate years, I actively participated in numerous intelligent vehicle competitions and achieved commendable results. 
 
