@@ -59,7 +59,7 @@ I envision a future where robots serve as the linchpin of intelligent advancemen
     <li><span class="news-date">2025.10</span> 🗣️ Present our paper "Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration" at IROS2025, held in Hangzhou.</li>
     <li><span class="news-date">2025.04</span> 🎉 Our paper "Stochastic Trajectory Optimization for Robotic Skill Acquisition From a Suboptimal Demonstration" has been accepted by RA-L2025. Congratulations!</li>
     <li><span class="news-date">2024.11</span> 🗣️ Present our paper "HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner" at CAC2024, held in Qingdao.</li>
-    <li><span class="news-date">2025.04</span> 🎉 Our paper "HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner" has been accepted by IEEE CAC2024. Congratulations!</li>
+    <li><span class="news-date">2024.08</span> 🎉 Our paper "HiCRISP: An LLM-Based Hierarchical Closed-Loop Robotic Intelligent Self-Correction Planner" has been accepted by IEEE CAC2024. Congratulations!</li>
   </ul>
 </div>
 <!-- === NEWS SECTION END === -->
