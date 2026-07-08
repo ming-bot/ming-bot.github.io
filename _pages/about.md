@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an Algorithm Expert at Alibaba's Amap in Beijing, China. I completed my Master's degree in the Department of Automation at Shanghai Jiao Tong University and my Bachelor's degree in the Department of Automation at Tsinghua University.
+I am currently working as an Algorithm Researcher at Alibaba's Amap in Beijing, China. I completed my Master's degree in the Department of Automation at Shanghai Jiao Tong University and my Bachelor's degree in the Department of Automation at Tsinghua University.
 
 I envision a future where robots serve as the linchpin of intelligent advancements, ushering in a universal era of intelligent robotics. Currently, my research interests encompass various areas, including but not limited to machine learning methods combined with robotics, reinforcement learning combined with robotics, and LLM coupled with robotics. I eagerly anticipate collaborating with like-minded individuals who share a common vision.
 
