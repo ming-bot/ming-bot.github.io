@@ -52,6 +52,7 @@ I envision a future where robots serve as the linchpin of intelligent advancemen
 <div class="custom-news-box">
   <h2>🔥 News</h2>
   <ul>
+    <li><span class="news-date">2026.07</span> 🗣️ We release our new-generation VLN technical report: ABot-N1!</li>
     <li><span class="news-date">2026.07</span> ✊ Hit 100 Google Scholar citations! Onward and upward!</li>
     <li><span class="news-date">2026.05</span> 📝 Join Amap CV Lab as an Algorithm Engineer. Exciting journey ahead!</li>
     <li><span class="news-date">2026.03</span> 🎉 Finished my Master's thesis defense and heading to Europe for a graduation trip!</li>

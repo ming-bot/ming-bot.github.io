@@ -87,8 +87,24 @@ author_profile: true
 </style>
 
 <div class="pub-list" markdown="0">
+<div class="pub-card">
+  <div class="pub-thumb">
+    <img src="../images/ABot-N1.png" alt="ABot-N1: Toward a General Visual Language Navigation Foundation Model" />
+  </div>
+  <div class="pub-body">
+    <span class="pub-venue">Technical Report</span>
+    <p class="pub-title">ABot-N1: Toward a General Visual Language Navigation Foundation Model</p>
+    <p class="pub-authors">AMAP CV Lab</p>
+    <div class="pub-links">
+      <a class="pub-btn" href="https://arxiv.org/abs/2607.10383" target="_blank" rel="noopener">Arxiv</a>
+      <a class="pub-btn" href="https://github.com/amap-cvlab/ABot-Navigation/tree/ABotN-Bench" target="_blank" rel="noopener">Code</a>
+      <a class="pub-btn" href="https://amap-cvlab.github.io/ABot-Navigation/ABot-N1/" target="_blank" rel="noopener">Project Website</a>
+    </div>
+  </div>
+</div>
+
 <div class="pub-card"> 
-<div class="pub-thumb">
+  <div class="pub-thumb">
     <img src="../images/ICLR_data_distribution.png" alt="IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment" />
   </div>
   <div class="pub-body">
