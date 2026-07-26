@@ -112,7 +112,7 @@ author_profile: true
     <p class="pub-title">IDEAL: Data Equilibrium Adaptation for Multi-Capability Language Model Alignment</p>
     <p class="pub-authors"><span class="me">Chenlin Ming</span>, Chendi Qu, Xiaoming Duan, Qizhi Pei, Zhuoshi Pan, Yu Li, Conghui He, Lijun Wu</p>
     <div class="pub-links">
-      <a class="pub-btn" href="https://arxiv.org/abs/2505.12762" target="_blank" rel="noopener">arXiv</a>
+      <a class="pub-btn" href="https://arxiv.org/abs/2505.12762" target="_blank" rel="noopener">Arxiv</a>
       <a class="pub-btn" href="https://github.com/ming-bot/IDEAL" target="_blank" rel="noopener">Code</a>
       <a class="pub-btn" href="https://zhuanlan.zhihu.com/p/1925560184190797656" target="_blank" rel="noopener">知乎</a>
     </div>
